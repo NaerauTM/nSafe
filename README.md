@@ -1,9 +1,9 @@
 # nSafe
 
 
-FR → Script de zone safe
+🇫🇷 → Script de zone safe
 
-EN → Safe zone script
+🇺🇸 → Safe zone script
 
 Discord → Naerau#4533
 
